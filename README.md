@@ -2,7 +2,7 @@
 simple REST webservice PHP
 
 This is sample to create table
-
+```
 CREATE TABLE IF NOT EXISTS `customers` (
   `customerNumber` int(11) NOT NULL AUTO_INCREMENT,
   `customerName` varchar(50) NOT NULL,
@@ -14,3 +14,4 @@ CREATE TABLE IF NOT EXISTS `customers` (
   `country` varchar(50) NOT NULL,
   PRIMARY KEY (`customerNumber`)
 );
+```
