@@ -1,5 +1,5 @@
 # simpleREST
-simple REST webservice PHP
+hello simple REST webservice PHP
 
 NOTE : PLEASE INPUT QUERY SQL OWN.. I DON'T PUT SQL QUERY ON API
 
